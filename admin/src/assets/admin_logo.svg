@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9C995;}
+	.st1{fill:#C52026;}
+	.st2{fill:#DDDDDD;}
+	.st3{fill:#787878;}
+	.st4{fill:#FDC88D;}
+	.st5{fill:#2D2D2D;}
+	.st6{fill:#47C8F5;}
+	.st7{fill:none;}
+	.st8{fill:#BCBCBC;}
+	.st9{fill:#606161;}
+	.st10{fill:#F37B87;}
+	.st11{fill:#FFC613;}
+	.st12{fill:#FFFFFF;}
+	.st13{fill:#E2A538;}
+	.st14{fill:#FAE7D0;}
+	.st15{fill:#F3AE3D;}
+	.st16{fill:#81C341;}
+	.st17{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st18{opacity:0.3;}
+	.st19{opacity:0.3;fill:#FFFFFF;}
+</style>
+<g id="Vector">
+	<g>
+		<path class="st6" d="M57.62,40.94v10c-0.23,0.05-0.47,0.07-0.72,0.07H8.26c-0.8,0-1.55-0.25-2.17-0.68v-8.78
+			c0.62-0.43,1.37-0.68,2.17-0.68h48.63C57.15,40.87,57.39,40.9,57.62,40.94z"/>
+		<path class="st11" d="M19.54,36.96v2.69c0,0.43-0.06,0.84-0.16,1.22H8.26c-0.8,0-1.55,0.25-2.17,0.68v-9.34h8.72
+			C17.41,32.22,19.54,34.34,19.54,36.96z"/>
+		<polygon class="st1" points="46.59,12.65 46.59,21.34 37.31,21.34 37.31,30.62 28.62,30.62 28.62,21.34 19.34,21.34 19.34,12.65 
+			28.62,12.65 28.62,3.38 37.31,3.38 37.31,12.65 		"/>
+	</g>
+</g>
+<g id="Line">
+	<g>
+		<path class="st17" d="M57.62,40.94v10c-0.23,0.05-0.47,0.07-0.72,0.07H8.26c-0.8,0-1.55-0.25-2.17-0.68v-8.78
+			c0.62-0.43,1.37-0.68,2.17-0.68h48.63C57.15,40.87,57.39,40.9,57.62,40.94z"/>
+		<path class="st17" d="M19.54,36.96v2.69c0,0.43-0.06,0.84-0.16,1.22H8.26c-0.8,0-1.55,0.25-2.17,0.68v-9.34h8.72
+			C17.41,32.22,19.54,34.34,19.54,36.96z"/>
+		<line class="st17" x1="5.65" y1="22.88" x2="5.65" y2="58.6"/>
+		<line class="st17" x1="57.62" y1="34.45" x2="57.62" y2="58.6"/>
+		<polygon class="st17" points="46.59,12.65 46.59,21.34 37.31,21.34 37.31,30.62 28.62,30.62 28.62,21.34 19.34,21.34 19.34,12.65 
+			28.62,12.65 28.62,3.38 37.31,3.38 37.31,12.65 		"/>
+	</g>
+</g>
+<g id="shadow">
+	<g class="st18">
+		<path d="M57.62,50.95v-10c-0.23-0.05-0.47-0.07-0.72-0.07h-17.7v10.14h17.7C57.15,51.01,57.39,50.99,57.62,50.95z"/>
+		<rect x="39.19" y="12.65" width="7.4" height="8.69"/>
+	</g>
+</g>
+<g id="Highligth">
+	<g class="st18">
+		<path class="st12" d="M4.81,50.95v-10c0.23-0.05,0.47-0.07,0.72-0.07h17.7v10.14H5.53C5.28,51.01,5.04,50.99,4.81,50.95z"/>
+		<rect x="15.84" y="12.65" class="st12" width="9.56" height="8.69"/>
+	</g>
+</g>
+</svg>
